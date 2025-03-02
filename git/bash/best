@@ -1,5 +1,5 @@
 #!/bin/bash
  HEAD
 echo "best school"
-echo "Best School"
+echo "HEAD"
 origin/update_script
